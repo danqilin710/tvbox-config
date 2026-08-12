@@ -1,12 +1,52 @@
 {
+  "spider": "",
+  "wallpaper": "",
   "sites": [
-    { "key": "肥猫", "name": "麒麟1", "type": 1, "api": "http://肥猫.love:63", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "饭太硬", "name": "麒麟2", "type": 1, "api": "http://www.fantaiying.com/tv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "小盒子4K", "name": "麒麟3", "type": 1, "api": "http://xhztv.top/4k.json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    {
+      "key": "量子",
+      "name": "麒麟1┃量子影视",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "非凡",
+      "name": "麒麟2┃非凡影视",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "暴风",
+      "name": "麒麟3┃暴风影视",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ],
   "parses": [
-    { "name": "解析1", "type": 0, "url": "https://jx.jsonplayer.com/player/?url=" }
+    {
+      "name": "默认解析",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    }
   ],
-  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","pptv","mgtv","wasu"],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
   "ads": []
 }
