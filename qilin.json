@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "",
+  "wallpaper": "https://picsum.photos/1920/1080"
   "sites": [
     {
       "key": "玩偶",
@@ -41,13 +41,20 @@
       "changeable": 0
     }
   ],
-  "parses": [
-    {
-      "name": "默认解析",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    }
-  ],
+ "lives": [
+  {
+    "name": "麒麟直播",
+    "type": 0,
+    "url": "https://你的直播地址/live.txt"
+  }
+],
+"parses": [
+  {
+    "name": "默认解析",
+    "type": 0,
+    "url": "https://jx.jsonplayer.com/player/?url="
+  }
+]
   "flags": [
     "youku",
     "qq",
