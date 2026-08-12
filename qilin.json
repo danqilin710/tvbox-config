@@ -1,9 +1,10 @@
 {
   "sites": [
-    { "key": "肥猫", "name": "麒麟1", "type": 1, "api": "http://肥猫.love:63", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "饭太硬", "name": "麒麟2", "type": 1, "api": "http://www.fantaiying.com/tv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "欧歌", "name": "麒麟3", "type": 1, "api": "http://m.nxog.top/nxog/ou1.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "小盒子4K", "name": "麒麟4", "type": 1, "api": "http://xhztv.top/4k.json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    { "key": "肥猫", "name": "麒麟1", "type": 1, "api": "http://xhztv.top/4k.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "饭太硬", "name": "麒麟2", "type": 1, "api": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "欧歌", "name": "麒麟3", "type": 1, "api": "https://9280.kstore.vip/newwex.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "小盒子4K", "name": "麒麟4", "type": 1, "api": "https://700sjro44343.vicp.fun/eggp/0211/tv.json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    { "key": "小盒子", "name": "麒麟5", "type": 1, "api": "http://home.jundie.top:81/top98.json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
   ],
   "parses": [
     { "name": "解析1", "type": 0, "url": "https://jx.jsonplayer.com/player/?url=" }
