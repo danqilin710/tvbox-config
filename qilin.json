@@ -61,8 +61,8 @@
     {
       "name": "麒麟直播",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/danqilin710/tvbox-config@main/live.m3u",
-      "ua": "okhttp/3.12.0"
+      "url": "https://cdn.jsdelivr.net/gh/danqilin710/tvbox-config@main/live.txt",
+      "playerType": 1
     }
   ],
   "flags": [
