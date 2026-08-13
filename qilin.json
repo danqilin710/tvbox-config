@@ -71,4 +71,4 @@
     { "key": "wangwang", "name": "麒麟┃旺旺资源", "type": 1, "api": "https://wwzy.tv/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "hongniu", "name": "麒麟17┃红牛", "type": 1, "api": "https://www.hongniuzy2.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "guangsu", "name": "麒麟18┃光速", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "ikun", "name": "麒麟19┃ikun", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "ikun", "name": "麒麟19┃ikun", "type": 1, "api": "https://ikunzyapi.com/api
