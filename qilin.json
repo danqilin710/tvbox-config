@@ -32,7 +32,7 @@
     {
       "key": "欧歌接口",
       "name": "麒麟4┃无邪",
-      "type": 0,
+      "type": 1,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json",
       "searchable": 1,
       "quickSearch": 1,
