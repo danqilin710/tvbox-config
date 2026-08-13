@@ -40,10 +40,10 @@
       "ua": "okhttp/3.12.0"
     },
     {
-      "key": "盒子4K",
+      "key": "多仓",
       "name": "麒麟5┃盒子",
-      "type": 0,
-      "api": "http://xhztv.top/4k.json",
+      "type": 1,
+      "api": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
