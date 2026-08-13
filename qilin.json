@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "",
+  "wallpaper": "https://picsum.photos/1920/1080",
   "sites": [
     {
       "key": "量子",
@@ -30,11 +30,11 @@
       "filterable": 1
     }
   ],
-  "parses": [
+  "lives": [
     {
-      "name": "默认解析",
+      "name": "70",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://cdn.jsdelivr.net/gh/danqilin710/tvbox-config@main/live.m3u"
     }
   ],
   "flags": [
