@@ -32,7 +32,7 @@
     {
       "key": "索尼",
       "name": "麒麟┃索尼",
-      "type": 0,
+      "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -60,7 +60,7 @@
   "lives": [
     {
       "name": "麒麟直播",
-      "type": 0,
+      "type": 1,
       "url": "https://cdn.jsdelivr.net/gh/danqilin710/tvbox-config@main/live.txt",
       "playerType": 1
     }
