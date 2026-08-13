@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "量子",
-      "name": "麒麟1┃量子影视",
+      "name": "麒麟┃量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -13,7 +13,7 @@
     },
     {
       "key": "非凡",
-      "name": "麒麟2┃非凡影视",
+      "name": "麒麟┃非凡",
       "type": 1,
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
     {
       "key": "暴风",
-      "name": "麒麟3┃暴风影视",
+      "name": "麒麟┃暴风",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "wolong",
-      "name": "麒麟4┃卧龙",
+      "name": "麒麟┃卧龙",
       "type": 1,
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "zuida",
-      "name": "麒麟5┃最大",
+      "name": "麒麟┃最大",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "searchable": 1,
