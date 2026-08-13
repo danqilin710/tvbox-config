@@ -32,7 +32,7 @@
     {
       "key": "欧歌接口",
       "name": "麒麟4┃无邪",
-      "type": 1,
+      "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json",
       "searchable": 1,
       "quickSearch": 1,
@@ -42,7 +42,7 @@
     {
       "key": "多仓",
       "name": "麒麟5┃盒子",
-      "type": 1,
+      "type": 3,
       "api": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1",
       "searchable": 1,
       "quickSearch": 1,
