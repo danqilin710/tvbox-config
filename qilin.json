@@ -32,7 +32,7 @@
     {
       "key": "欧歌接口",
       "name": "麒麟4┃讴歌",
-      "type": 1,
+      "type": 0,
       "api": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3d",
       "searchable": 1,
       "quickSearch": 1,
@@ -42,7 +42,7 @@
     {
       "key": "盒子4K",
       "name": "麒麟5┃盒子",
-      "type": 1,
+      "type": 0,
       "api": "http://xhztv.top/4k.json",
       "searchable": 1,
       "quickSearch": 1,
