@@ -60,9 +60,8 @@
   "lives": [
     {
       "name": "麒麟直播",
-      "type": 1,
+      "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
-       "playerType": 1
     }
   ],
   "flags": [
@@ -77,14 +76,5 @@
     "wasu"
   ],
 
-  "ads": [
-    "ad.youku.com",
-    "ad.iqiyi.com",
-    "cmop.mgtv.com",
-    "static.g.iqiyi.com",
-    "msg.video.qq.com",
-    "m.aty.sohu.com",
-    "pgdt.gtimg.cn",
-    "v.admaster.com.cn"
-  ]
+  "ads": []
 }
