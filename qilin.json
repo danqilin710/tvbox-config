@@ -76,5 +76,11 @@
     "wasu"
   ],
 
-  "ads": []
+  "ads": [
+  "ad.youku.com",
+  "ad.iqiyi.com",
+  "cmop.mgtv.com",
+  "pgdt.gtimg.cn",
+  "v.admaster.com.cn"
+]
 }
