@@ -1,2 +1,0 @@
-测试,#genre#
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
