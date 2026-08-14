@@ -60,7 +60,7 @@
   "lives": [
     {
       "name": "麒麟直播",
-      "type": 1,
+      "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/danqilin710/tvbox-config@main/qilin_live_v2.txt",
       "playerType": 1
     }
