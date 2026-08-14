@@ -66,7 +66,25 @@
     }
   ],
   "flags": [
-    "youku","qq","iqiyi","qiyi","letv","sohu","pptv","mgtv","wasu"
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "mgtv",
+    "wasu"
   ],
-  "ads": []
+
+  "ads": [
+    "ad.youku.com",
+    "ad.iqiyi.com",
+    "cmop.mgtv.com",
+    "static.g.iqiyi.com",
+    "msg.video.qq.com",
+    "m.aty.sohu.com",
+    "pgdt.gtimg.cn",
+    "v.admaster.com.cn"
+  ]
 }
