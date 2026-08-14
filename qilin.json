@@ -60,7 +60,7 @@
   "lives": [
     {
       "name": "测试直播",
-      "type": 0,
+      "type": 1,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/test_live.txt"
     }
   ],
