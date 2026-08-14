@@ -59,9 +59,9 @@
   ],
   "lives": [
     {
-      "name": "测试直播",
+      "name": "麒麟直播",
       "type": 1,
-      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/test_live.txt"
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt"
        "playerType": 1
     }
   ],
