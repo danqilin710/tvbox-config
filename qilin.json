@@ -62,6 +62,7 @@
       "name": "测试直播",
       "type": 1,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/test_live.txt"
+       "playerType": 1
     }
   ],
   "flags": [
