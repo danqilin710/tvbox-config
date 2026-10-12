@@ -1,7 +1,6 @@
 {
   "spider": "",
   "wallpaper": "",
-
   "sites": [
     {
       "key": "量子",
@@ -17,15 +16,6 @@
       "name": "麒麟┃非凡",
       "type": 1,
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "速播",
-      "name": "麒麟┃速播",
-      "type": 1,
-      "api": "https://subocj.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -47,27 +37,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
     {
       "key": "光速",
-      "name": "麒麟┃光速",
+      "name": "麒麟┃光速(测试)",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
     {
       "key": "急速",
-      "name": "麒麟┃急速",
+      "name": "麒麟┃急速(测试)",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod ",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     }
   ],
-
   "lives": [
     {
       "name": "麒麟直播",
@@ -76,7 +65,6 @@
       "playerType": 1
     }
   ],
-
   "flags": [
     "youku",
     "qq",
@@ -88,6 +76,5 @@
     "mgtv",
     "wasu"
   ],
-
   "ads": []
 }
