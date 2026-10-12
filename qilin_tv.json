@@ -47,15 +47,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "急速",
-      "name": "麒麟┃急速(测试)",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
   ],
   "lives": [
     {
