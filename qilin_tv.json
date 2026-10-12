@@ -1,8 +1,93 @@
 {
   "spider": "",
   "wallpaper": "",
-  "sites": [],
-  "lives": [],
-  "flags": [],
+
+  "sites": [
+    {
+      "key": "量子",
+      "name": "麒麟┃量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "非凡",
+      "name": "麒麟┃非凡",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "速播",
+      "name": "麒麟┃速播",
+      "type": 1,
+      "api": "https://subocj.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "暴风",
+      "name": "麒麟┃暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "最大",
+      "name": "麒麟┃最大",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+    {
+      "key": "光速",
+      "name": "麒麟┃光速",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+    {
+      "key": "急速",
+      "name": "麒麟┃急速",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+
+  "lives": [
+    {
+      "name": "麒麟直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
+      "playerType": 1
+    }
+  ],
+
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+
   "ads": []
 }
