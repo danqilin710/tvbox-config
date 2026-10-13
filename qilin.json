@@ -1,7 +1,6 @@
 {
   "spider": "",
   "wallpaper": "",
-
   "sites": [
     {
       "key": "量子",
@@ -38,9 +37,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "光速",
+      "name": "麒麟┃光速",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "急速",
+      "name": "麒麟┃急速",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
-
   "lives": [
     {
       "name": "麒麟直播",
@@ -49,7 +65,6 @@
       "playerType": 1
     }
   ],
-
   "flags": [
     "youku",
     "qq",
@@ -61,6 +76,5 @@
     "mgtv",
     "wasu"
   ],
-
   "ads": []
 }
