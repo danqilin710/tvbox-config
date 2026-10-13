@@ -42,7 +42,7 @@
       "key": "光速",
       "name": "麒麟┃光速(测试)",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
