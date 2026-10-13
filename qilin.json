@@ -63,6 +63,12 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
       "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃高速测试",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_fast_test.txt",
+      "playerType": 1
     }
   ],
   "flags": [
