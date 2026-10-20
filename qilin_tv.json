@@ -40,7 +40,7 @@
     },
     {
       "key": "光速",
-      "name": "麒麟┃光速(测试)",
+      "name": "麒麟┃光速",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -49,7 +49,7 @@
     },
     {
       "key": "急速",
-      "name": "麒麟┃急速(测试)",
+      "name": "麒麟┃急速",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -60,6 +60,12 @@
   "lives": [
     {
       "name": "麒麟直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_fast_test.txt",
+      "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃原版补充",
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
       "playerType": 1
