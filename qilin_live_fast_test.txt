@@ -2455,7 +2455,7 @@ CNR4K,http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
 西藏卫视,http://ott.mobaibox.com/PLTV/4/224/3221226376/index.m3u8
 康巴卫视,http://ott.mobaibox.com/PLTV/4/224/3221227645/index.m3u8
 安多卫视,http://ott.mobaibox.com/PLTV/4/224/3221227651/index.m3u8
-兵团卫视, http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
+兵团卫视,http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 大湾区卫视,http://ott.mobaibox.com/PLTV/4/224/3221228326/index.m3u8
 三沙卫视,http://ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 厦门卫视,http://ott.mobaibox.com/PLTV/4/224/3221226996/index.m3u8
@@ -3029,10 +3029,10 @@ CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 马鞍山科教,https://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
 马鞍山综合,https://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
 安庆经济,https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
-安庆新闻,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d 
-阜阳都市,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1 
-阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv 
-阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR 
+安庆新闻,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
+阜阳都市,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
+阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 
 北京卫视,http://123.121.5.183:4000/rtp/239.3.1.241:8000
 北京新闻,http://123.121.5.183:4000/rtp/239.3.1.159:8000
@@ -3471,7 +3471,8 @@ SHE精选40首(2小时),https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3
 孙燕姿精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
 周深精选72首(5小时),https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
 飞轮海精选30首(2小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
-颜人中精选36首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
+颜人中精选36首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0
+张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
 刘若英精选50首(3小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
 Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
 杨丞琳精选30首(2小时),https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
