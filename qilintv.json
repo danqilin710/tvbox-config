@@ -3,13 +3,12 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "初恋资源",
-      "name": "麒麟┃初恋4K结构测试",
+      "key": "豪华资源",
+      "name": "麒麟┃豪华CMS单源测试",
       "type": 1,
-      "api": "https://video.adminqt.cn/api.php/provide/vod/",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     }
   ],
   "lives": [
