@@ -3,84 +3,17 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "量子",
-      "name": "麒麟┃量子",
+      "key": "肥猫",
+      "name": "麒麟┃肥猫兼容测试",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "http://xn--z7x900a.love:63",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "非凡",
-      "name": "麒麟┃非凡",
-      "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "暴风",
-      "name": "麒麟┃暴风",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "最大",
-      "name": "麒麟┃最大",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "光速",
-      "name": "麒麟┃光速",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "初恋资源",
-      "name": "麒麟┃初恋资源",
-      "type": 1,
-      "api": "https://video.adminqt.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "聚玩",
-      "name": "麒麟┃聚玩",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "麒麟┃360影视",
-      "type": 3,
-      "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E8%A7%86%E5%BD%B1.js"
-    },
-    {
-      "key": "肥猫兼容对照",
-      "name": "对照┃肥猫HTTP",
-      "type": 1,
-      "api": "http://肥猫.love:63",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小胡4K对照",
-      "name": "对照┃4K小胡CMS",
+      "key": "小胡",
+      "name": "麒麟┃小胡4K兼容测试",
       "type": 1,
       "playerType": 1,
       "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
