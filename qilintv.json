@@ -48,8 +48,8 @@
       "filterable": 1
     },
     {
-      "key": "Juwan",
-      "name": "Qilin┃Gathering",
+      "key": "聚玩",
+      "name": "麒麟┃聚玩",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
