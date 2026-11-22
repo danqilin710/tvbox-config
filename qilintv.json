@@ -153,6 +153,12 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
       "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃备用整理版",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_backup.txt",
+      "playerType": 1
     }
   ],
   "flags": [
