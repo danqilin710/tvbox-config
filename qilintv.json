@@ -3,13 +3,12 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "量子",
-      "name": "麒麟┃量子兼容性对照",
+      "key": "初恋资源",
+      "name": "麒麟┃初恋4K结构测试",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://video.adminqt.cn/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     }
   ],
   "lives": [
