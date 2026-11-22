@@ -4,20 +4,9 @@
   "sites": [
     {
       "key": "肥猫",
-      "name": "麒麟┃肥猫兼容测试",
+      "name": "麒麟┃肥猫单源测试",
       "type": 1,
-      "api": "http://xn--z7x900a.love:63",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小胡",
-      "name": "麒麟┃小胡4K兼容测试",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
-      "jar": "http://xiaohu.xzam.cn/jar/1.jar",
+      "api": "http://肥猫.love:63",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
