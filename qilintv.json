@@ -68,6 +68,26 @@
       "type": 3,
       "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E8%A7%86%E5%BD%B1.js"
+    },
+    {
+      "key": "肥猫兼容对照",
+      "name": "对照┃肥猫HTTP",
+      "type": 1,
+      "api": "http://肥猫.love:63",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小胡4K对照",
+      "name": "对照┃4K小胡CMS",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+      "jar": "http://xiaohu.xzam.cn/jar/1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
