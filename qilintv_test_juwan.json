@@ -1,0 +1,39 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "聚玩",
+      "name": "麒麟┃聚玩",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    }
+  ],
+  "lives": [
+    {
+      "name": "麒麟直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_fast_test.txt",
+      "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃原版补充",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
+      "playerType": 1
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "ads": []
+}
