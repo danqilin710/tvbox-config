@@ -48,6 +48,14 @@
       "filterable": 1
     },
     {
+      "key": "初恋资源",
+      "name": "麒麟┃初恋资源",
+      "type": 1,
+      "api": "https://video.adminqt.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "聚玩",
       "name": "麒麟┃聚玩",
       "type": 3,
