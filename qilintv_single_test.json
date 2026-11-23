@@ -1,0 +1,39 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "lezi",
+      "name": "麒麟20",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "麒麟直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_fast_test.txt",
+      "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃原版补充",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
+      "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃备用整理版",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_backup.txt",
+      "playerType": 1
+    }
+  ],
+  "flags": [
+    "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu"
+  ],
+  "ads": []
+}
