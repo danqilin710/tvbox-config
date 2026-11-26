@@ -1,30 +1,22 @@
 {
   "spider": "",
-  "wallpaper": "wallpaper":"https://raw.githubusercontent.com/danqilin710/tvbox-config/main/bg.jpg",
+  "wallpaper": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/bg.jpg",
+
   "sites": [
+    {
+      "key": "红牛",
+      "name": "麒麟┃红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "量子",
       "name": "麒麟┃量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "非凡",
-      "name": "麒麟┃非凡",
-      "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "暴风",
-      "name": "麒麟┃暴风",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -39,12 +31,40 @@
       "filterable": 1
     },
     {
+      "key": "索尼",
+      "name": "麒麟┃索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "暴风",
+      "name": "麒麟┃暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "非凡",
+      "name": "麒麟┃非凡",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "光速",
       "name": "麒麟┃光速",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -52,11 +72,42 @@
       "name": "麒麟┃急速",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "闪电",
+      "name": "麒麟┃闪电",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "百度",
+      "name": "麒麟┃百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "key": "肥猫",
+      "name": "麒麟┃肥猫",
+      "type": 1,
+      "api": "http://肥猫.love:63",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     }
   ],
+
   "lives": [
     {
       "name": "麒麟直播",
@@ -69,8 +120,15 @@
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
       "playerType": 1
+    },
+    {
+      "name": "麒麟直播┃备用整理版",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_backup.txt",
+      "playerType": 1
     }
   ],
+
   "flags": [
     "youku",
     "qq",
@@ -82,5 +140,6 @@
     "mgtv",
     "wasu"
   ],
+
   "ads": []
 }
