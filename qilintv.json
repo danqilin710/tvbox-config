@@ -3,7 +3,6 @@
   "wallpaper": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/bg.jpg",
 
   "sites": [
-
     {
       "key": "量子",
       "name": "麒麟┃量子",
@@ -13,7 +12,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "非凡",
       "name": "麒麟┃非凡",
@@ -23,7 +21,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "光速",
       "name": "麒麟┃光速",
@@ -33,12 +30,29 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "急速",
       "name": "麒麟┃急速",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "索尼",
+      "name": "麒麟┃索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红牛",
+      "name": "麒麟┃红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -53,19 +67,15 @@
       "quickSearch": 0,
       "filterable": 1
     },
-
     {
-      "key": "索尼",
-      "name": "麒麟┃索尼",
+      "key": "暴风",
+      "name": "麒麟┃暴风",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
     },
-
-
-
     {
       "key": "肥猫",
       "name": "麒麟┃肥猫",
@@ -75,77 +85,49 @@
       "quickSearch": 0,
       "filterable": 1
     },
-
-
-
     {
-      "key": "玩偶",
-      "name": "麒麟┃玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "key": "闪电",
+      "name": "麒麟┃闪电",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
     },
-
     {
-      "key": "花卷",
-      "name": "麒麟┃花卷",
-      "type": 3,
-      "api": "csp_AiNewHuaJuanGuard",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
-    {
-      "key": "原盘",
-      "name": "麒麟┃原盘",
-      "type": 3,
-      "api": "csp_AiNewZhiNan4KGuard",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
-    {
-      "key": "韩剧",
-      "name": "麒麟┃韩剧",
-      "type": 3,
-      "api": "csp_WexAiHanXiaoQuanGuard",
-      "searchable": 1,
-      "quickSearch": 1
+      "key": "百度",
+      "name": "麒麟┃百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
     }
-
   ],
 
-
-
   "lives": [
-
     {
       "name": "麒麟直播",
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_fast_test.txt",
       "playerType": 1
     },
-
     {
       "name": "麒麟直播┃原版补充",
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_v2.txt",
       "playerType": 1
     },
-
     {
       "name": "麒麟直播┃备用整理版",
       "type": 0,
       "url": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/qilin_live_backup.txt",
       "playerType": 1
     }
-
   ],
-
-
 
   "flags": [
     "youku",
