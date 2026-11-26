@@ -1,7 +1,6 @@
 {
   "spider": "",
   "wallpaper": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/bg.jpg",
-
   "sites": [
     {
       "key": "红牛",
@@ -39,7 +38,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "暴风",
       "name": "麒麟┃暴风",
@@ -96,18 +94,8 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    },
-    {
-      "key": "肥猫",
-      "name": "麒麟┃肥猫",
-      "type": 1,
-      "api": "http://肥猫.love:63",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     }
   ],
-
   "lives": [
     {
       "name": "麒麟直播",
@@ -128,7 +116,6 @@
       "playerType": 1
     }
   ],
-
   "flags": [
     "youku",
     "qq",
@@ -140,6 +127,5 @@
     "mgtv",
     "wasu"
   ],
-
   "ads": []
 }
