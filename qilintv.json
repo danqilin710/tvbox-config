@@ -49,8 +49,8 @@
       "name": "麒麟┃最大",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
 
@@ -59,8 +59,8 @@
       "name": "麒麟┃索尼",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
 
@@ -71,8 +71,8 @@
       "name": "麒麟┃肥猫",
       "type": 1,
       "api": "http://肥猫.love:63",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
 
