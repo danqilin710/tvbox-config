@@ -86,6 +86,33 @@
       "filterable": 1
     },
     {
+  "key":"电影天堂",
+  "name":"麒麟┃电影天堂",
+  "type":1,
+  "api":"http://caiji.dyttzyapi.com/api.php/provide/vod",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"天涯",
+  "name":"麒麟┃天涯",
+  "type":1,
+  "api":"https://ty.tyyszy5.com/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"闪电",
+  "name":"麒麟┃闪电",
+  "type":1,
+  "api":"https://xsd.sdzyapi.com/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+}
+    {
       "key": "闪电",
       "name": "麒麟┃闪电",
       "type": 1,
