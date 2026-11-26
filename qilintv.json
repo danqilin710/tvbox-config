@@ -63,8 +63,8 @@
       "name": "麒麟┃最大",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -72,8 +72,8 @@
       "name": "麒麟┃暴风",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -81,8 +81,8 @@
       "name": "麒麟┃肥猫",
       "type": 1,
       "api": "http://肥猫.love:63",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -90,8 +90,8 @@
       "name": "麒麟┃闪电",
       "type": 1,
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
