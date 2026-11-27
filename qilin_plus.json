@@ -1,5 +1,6 @@
 {
   "spider": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png;md5;f33fe0621341289e1491f2ae55b4423b",
+
   "wallpaper": "https://raw.githubusercontent.com/danqilin710/tvbox-config/main/bg.jpg",
 
   "sites": [
@@ -8,6 +9,25 @@
       "name": "麒麟┃红牛",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "name": "🚀┃瓜子┃秒播",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Guazi"
+    },
+    {
+      "key": "量子",
+      "name": "麒麟┃量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,16 +42,6 @@
       "filterable": 1
     },
     {
-      "key": "量子",
-      "name": "麒麟┃量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
       "name": "🌟┃玩偶┃4K",
       "key": "woWogg",
       "type": 3,
@@ -41,7 +51,6 @@
       "changeable": 1,
       "ext": "woWogg"
     },
-
     {
       "name": "💎┃花卷┃4K",
       "key": "PanHj",
@@ -51,70 +60,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "PanHj"
-    },
-
-    {
-      "name": "💎┃原盘┃4K",
-      "key": "Zhinan",
-      "type": 3,
-      "api": "csp_ZhinanAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Zhinan"
-    },
-
-    {
-      "name": "🛸┃厂长┃蓝光",
-      "key": "Czzy",
-      "type": 3,
-      "api": "csp_CzzyAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Czzy"
-    },
-
-    {
-      "name": "🛸┃LBV┃蓝光",
-      "key": "Libvio",
-      "type": 3,
-      "api": "csp_LibvioAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Libvio"
-    },
-
-    {
-      "name": "🚀┃韩剧┃秒播",
-      "key": "Hxq",
-      "type": 3,
-      "api": "csp_HxqAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "name": "🚀┃瓜子┃秒播",
-      "key": "Guazi",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "Guazi"
-    },
-
-    {
-      "name": "🚀┃金牌┃秒播",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     }
   ],
 
